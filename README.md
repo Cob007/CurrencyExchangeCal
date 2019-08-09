@@ -10,6 +10,9 @@ For first time user, the app solely depends on internet to get
 the list of currencies exchange rate. 
 Thanks
 
-# Architecture used : MVVP
-# Library: Room, Retrofit, EventBus and Caligraphy
+# 
+Architecture used : MVVP
+Library: Room, Retrofit, EventBus and Caligraphy
+
+Installable apk can be found in the apk folder 
 
